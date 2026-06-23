@@ -1,0 +1,13 @@
+train: D:\hallo\Queen Bee.v4i.yolov8\train\images
+val: D:\hallo\Queen Bee.v4i.yolov8\valid\images
+test: D:\hallo\Queen Bee.v4i.yolov8\test\images
+
+nc: 2
+names: ['Queen-Bee', 'worker-bee']
+
+roboflow:
+  workspace: bees-wxttk
+  project: queen-bee-8uwsj
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bees-wxttk/queen-bee-8uwsj/dataset/4
