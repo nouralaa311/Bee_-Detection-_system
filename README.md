@@ -62,7 +62,7 @@ Two models were trained independently and evaluated on their respective validati
 | Est. CPU FPS | ~50–80 | ~15–25 | YOLOv8n (~3× faster) |
 | Edge Deployment | ✅ Excellent | ⚠️ Limited | YOLOv8n |
 
-> ⚠️ **Note:** The two models were trained on different dataset splits (`bee_dataset` vs `Queen-Bee-4`). Metric differences reflect both architecture capacity and dataset characteristics. For a fully controlled comparison, retrain on identical splits.
+
 
 ### Key Takeaways
 
